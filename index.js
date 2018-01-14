@@ -1,4 +1,4 @@
-var names = "Joe";
+var name = "Joe";
 var height = "74";
 
 
